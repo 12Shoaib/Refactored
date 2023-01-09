@@ -1,0 +1,51 @@
+.mainComponents{
+    list-style: none;
+    background-color: #0d90e8;
+    height: 80px;
+    width: 100;
+    padding: 0px;
+    margin: 0px;
+    font-family: montserrat, sans-serif;
+    
+}
+.navComponent{
+    position: fixed ;
+
+}
+.logo{
+font-family:  montserrat, sans-serif;
+font-weight: Bold;
+color: white;
+font-size: 28px;
+line-height: 80px;
+/* display: grid; */
+margin-left: 39px;
+text-transform: uppercase;
+cursor:pointer;
+
+}
+.linker{
+   text-decoration: none;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   display: inline;
+   padding: 10px;
+   color: white;
+   font-weight: bold;
+   font-size: 16px;
+   text-transform: uppercase;
+   margin-left: 200px;
+   line-height: 60px;
+}
+.linker:hover{
+    background: #b6d4e98f; 
+    transition: .4s;
+    padding: 3px , 5px;
+    border-radius:10px ;
+}
+.data{
+    font-size: 15px;
+    text-decoration: none;
+
+}

@@ -1,0 +1,27 @@
+.button{
+    font-size: 20px;
+    padding: 10px;
+    margin:12px ;
+    background-color: #0082e6 ;
+    border-radius: 30px;
+    border: 1px white solid;
+    color: white;
+    cursor: pointer;
+
+}
+.table{
+    padding: 4px;
+    margin: 30px;
+}
+.tablecoloumn{
+    padding: 5px;
+    margin: 2px;
+
+}
+
+.search{
+    font-size: 20px;
+    justify-content: center;
+    padding: 4px;
+    margin: 10px;
+   }
